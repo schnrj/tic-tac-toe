@@ -23,6 +23,12 @@ A simple implementation of the classic Tic Tac Toe (or Noughts and Crosses) game
 
 ## How to Run
 
+You can play the game online at the following link:
+
+[Play Tic Tac Toe](https://tic-tac-9dc03zwgv-sachins-projects-4c45740f.vercel.app/)
+
+Alternatively, to run it locally:
+
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/schnrj/tic-tac-toe.git
